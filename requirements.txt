@@ -2,3 +2,6 @@ pandas
 requests
 numpy 
 beautifulsoup4
+sqlalchemy
+ipython-sql
+prettytable
